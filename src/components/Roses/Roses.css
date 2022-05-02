@@ -1,0 +1,17 @@
+.roses{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+
+.rose-shop{
+  border-right: 1px solid red;
+
+  background-color: rgba(220, 20, 60, 0.135);
+  margin: 5px;
+}
+.rose-cart{
+  height: 95vh;
+  background-color: rgba(23, 3, 3, 0.281);
+  margin:5px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}

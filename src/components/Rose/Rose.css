@@ -1,0 +1,18 @@
+.rose-container{
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid black;
+}
+
+.rose-dtails{
+  margin: auto
+}
+
+.add-to-cart{
+  padding: 10px 20px;
+  display: inline-block;
+  background-color: red;
+  border:1px saddlebrown;
+  border-radius: 5px;
+
+}
